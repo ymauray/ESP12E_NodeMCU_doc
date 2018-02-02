@@ -10,10 +10,11 @@ This is the collection of all the things I have gathered around the internet abo
 ESP12E NodeMCU module.
 
 .. toctree::
-   :maxdepth: 7
+   :maxdepth: 2
    :caption: Contents:
 
    pinout
+   power
 
 .. note:: This documentation is under development. Also, it assembles unverified sources and is mainly for my personnal use. But you're welcome to read it !
 

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# The Frenchguy's notes about ESP12E NodeMCU documentation build configuration file, created by
+# The Frenchguy's notes about Lolin ESP12E NodeMCU v3 build configuration file, created by
 # sphinx-quickstart on Fri Feb  2 12:12:43 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'The Frenchguy\'s notes about ESP12E NodeMCU'
+project = u'The Frenchguy\'s notes about the Lolin ESP12E NodeMCU v3 dev kit'
 copyright = u'2018, Yannick Mauray'
 author = u'Yannick Mauray'
 
