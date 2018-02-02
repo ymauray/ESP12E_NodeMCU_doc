@@ -6,19 +6,19 @@
 Welcome to The Frenchguy's notes about ESP12E NodeMCU!
 ======================================================
 
+This is the collection of all the things I have gathered around the internet about the wonderfull
+ESP12E NodeMCU module.
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 7
    :caption: Contents:
 
-$project
-========
+   pinout
 
-$project is the collection of all the things I have gathered around the internet about the wonderfull
-ESP12E NodeMCU module.
+.. note:: This documentation is under development. Also, it assembles unverified sources and is mainly for my personnal use. But you're welcome to read it !
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
